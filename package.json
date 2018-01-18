@@ -1,0 +1,15 @@
+{
+  "name": "remark-code-fences-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "remark README.md > output.md"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "remark-cli": "^4.0.0"
+  }
+}
